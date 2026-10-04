@@ -2,7 +2,7 @@
 
 * 🎓 CS @ University of South Florida
 * 🔭 Currently working on 
-* 📬 Follow me on: <a href="https://linkedin.com/in/pedrocintraa" target="_blank">Linkedin</a>, <a href="https://x.com/pedrocintraaaaa" target="_blank">X</a>
+* 📬 Follow me on: <a href="https://linkedin.com/in/pedrocintraa" target="_blank">Linkedin</a>  <a href="https://x.com/pedrocintraaaaa" target="_blank">X</a>
 
 ---
 
