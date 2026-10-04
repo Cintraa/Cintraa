@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Pedro Cintra
 
----
-
 * 🎓 CS @ University of South Florida
 * 🔭 Currently working on AI applications & low-level software
 * 📬 Follow me on [](https://linkedin.com/in/pedrocintraa)
